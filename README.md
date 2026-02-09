@@ -45,5 +45,5 @@ To analyze customer subscription data and identify key churn patterns, retention
 ## Conclusion
 This dashboard delivers business-focused insights that help stakeholders understand customer churn behavior and identify practical strategies to improve retention and customer lifetime value.
 <img width="1280" height="721" alt="fn_ds_02" src="https://github.com/user-attachments/assets/c07dd2dc-82c8-4d99-bb9a-cf4c4c3bf15e" />
-<img width="1280" height="721" alt="fn_ds_02" src="https://github.com/user-attachments/assets/c07dd2dc-82c8-4d99-bb9a-cf4c4c3bf15e" />
+
 
